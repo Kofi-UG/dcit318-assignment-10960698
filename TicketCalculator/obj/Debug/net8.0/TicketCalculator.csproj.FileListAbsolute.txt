@@ -1,0 +1,14 @@
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\bin\Debug\net8.0\TicketCalculator.exe
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\bin\Debug\net8.0\TicketCalculator.deps.json
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\bin\Debug\net8.0\TicketCalculator.runtimeconfig.json
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\bin\Debug\net8.0\TicketCalculator.dll
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\bin\Debug\net8.0\TicketCalculator.pdb
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.AssemblyInfoInputs.cache
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.AssemblyInfo.cs
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.dll
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\refint\TicketCalculator.dll
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.pdb
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\TicketCalculator.genruntimeconfig.cache
+C:\Users\hp spectre\Desktop\dcit318\TicketCalculator\TicketCalculator\obj\Debug\net8.0\ref\TicketCalculator.dll
